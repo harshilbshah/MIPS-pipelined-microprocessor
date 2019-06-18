@@ -1,0 +1,10 @@
+Command line:
+   MIPS_top_module_tb_isim_par.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49568
+
+Fri Jan 06 02:00:00 2017
+
+
+ Elaboration Time: 0.765625 sec
